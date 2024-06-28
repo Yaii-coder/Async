@@ -41,3 +41,5 @@ plot(t, Ud, t, Uq);
 xlabel('Время (с)'); ylabel('Напряжение (В)');
 legend('Ud', 'Uq');
 grid on;
+
+% ekg;hlwHGK;LHGKE;HLRGRJ;;;;ELHRJ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EERLJH
